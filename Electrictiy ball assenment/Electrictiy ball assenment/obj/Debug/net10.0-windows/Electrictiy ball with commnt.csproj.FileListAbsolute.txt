@@ -1,0 +1,18 @@
+C:\Users\PC\source\repos\exam1\Electrictiy ball assenment\Electrictiy ball assenment\bin\Debug\net10.0-windows\Electrictiy ball with commnt.exe
+C:\Users\PC\source\repos\exam1\Electrictiy ball assenment\Electrictiy ball assenment\bin\Debug\net10.0-windows\Electrictiy ball with commnt.deps.json
+C:\Users\PC\source\repos\exam1\Electrictiy ball assenment\Electrictiy ball assenment\bin\Debug\net10.0-windows\Electrictiy ball with commnt.runtimeconfig.json
+C:\Users\PC\source\repos\exam1\Electrictiy ball assenment\Electrictiy ball assenment\bin\Debug\net10.0-windows\Electrictiy ball with commnt.dll
+C:\Users\PC\source\repos\exam1\Electrictiy ball assenment\Electrictiy ball assenment\bin\Debug\net10.0-windows\Electrictiy ball with commnt.pdb
+C:\Users\PC\source\repos\exam1\Electrictiy ball assenment\Electrictiy ball assenment\obj\Debug\net10.0-windows\Electrictiy_ball_assenment.Form1.resources
+C:\Users\PC\source\repos\exam1\Electrictiy ball assenment\Electrictiy ball assenment\obj\Debug\net10.0-windows\Electrictiy_ball_assenment.Properties.Resources.resources
+C:\Users\PC\source\repos\exam1\Electrictiy ball assenment\Electrictiy ball assenment\obj\Debug\net10.0-windows\Electrictiy ball with commnt.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\exam1\Electrictiy ball assenment\Electrictiy ball assenment\obj\Debug\net10.0-windows\Electrictiy ball with commnt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\exam1\Electrictiy ball assenment\Electrictiy ball assenment\obj\Debug\net10.0-windows\Electrictiy ball with commnt.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\exam1\Electrictiy ball assenment\Electrictiy ball assenment\obj\Debug\net10.0-windows\Electrictiy ball with commnt.AssemblyInfo.cs
+C:\Users\PC\source\repos\exam1\Electrictiy ball assenment\Electrictiy ball assenment\obj\Debug\net10.0-windows\Electrictiy ball with commnt.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\exam1\Electrictiy ball assenment\Electrictiy ball assenment\obj\Debug\net10.0-windows\Electrictiy ball with commnt.dll
+C:\Users\PC\source\repos\exam1\Electrictiy ball assenment\Electrictiy ball assenment\obj\Debug\net10.0-windows\refint\Electrictiy ball with commnt.dll
+C:\Users\PC\source\repos\exam1\Electrictiy ball assenment\Electrictiy ball assenment\obj\Debug\net10.0-windows\Electrictiy ball with commnt.pdb
+C:\Users\PC\source\repos\exam1\Electrictiy ball assenment\Electrictiy ball assenment\obj\Debug\net10.0-windows\Electrictiy ball with commnt.genruntimeconfig.cache
+C:\Users\PC\source\repos\exam1\Electrictiy ball assenment\Electrictiy ball assenment\obj\Debug\net10.0-windows\ref\Electrictiy ball with commnt.dll
+C:\Users\PC\source\repos\exam1\Electrictiy ball assenment\Electrictiy ball assenment\obj\Debug\net10.0-windows\Electric.AC0EDF0D.Up2Date
