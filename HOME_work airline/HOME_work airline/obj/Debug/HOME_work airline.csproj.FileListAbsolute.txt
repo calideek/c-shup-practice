@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\exam1\HOME_work airline\HOME_work airline\obj\Debug\HOME_work airline.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\exam1\HOME_work airline\HOME_work airline\obj\Debug\HOME_work_airline.Properties.Resources.resources
+C:\Users\PC\source\repos\exam1\HOME_work airline\HOME_work airline\obj\Debug\HOME_work airline.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\exam1\HOME_work airline\HOME_work airline\obj\Debug\HOME_work airline.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\exam1\HOME_work airline\HOME_work airline\bin\Debug\HOME_work airline.exe.config
+C:\Users\PC\source\repos\exam1\HOME_work airline\HOME_work airline\bin\Debug\HOME_work airline.exe
+C:\Users\PC\source\repos\exam1\HOME_work airline\HOME_work airline\bin\Debug\HOME_work airline.pdb
+C:\Users\PC\source\repos\exam1\HOME_work airline\HOME_work airline\obj\Debug\HOME_work_airline.Form1.resources
+C:\Users\PC\source\repos\exam1\HOME_work airline\HOME_work airline\obj\Debug\HOME_work airline.exe
+C:\Users\PC\source\repos\exam1\HOME_work airline\HOME_work airline\obj\Debug\HOME_work airline.pdb
