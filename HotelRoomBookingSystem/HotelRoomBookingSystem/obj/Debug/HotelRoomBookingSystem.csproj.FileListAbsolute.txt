@@ -1,0 +1,5 @@
+C:\Users\PC\source\repos\exam1\HotelRoomBookingSystem\HotelRoomBookingSystem\obj\Debug\HotelRoomBookingSystem.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\exam1\HotelRoomBookingSystem\HotelRoomBookingSystem\obj\Debug\HotelRoomBookingSystem.Form1.resources
+C:\Users\PC\source\repos\exam1\HotelRoomBookingSystem\HotelRoomBookingSystem\obj\Debug\HotelRoomBookingSystem.Properties.Resources.resources
+C:\Users\PC\source\repos\exam1\HotelRoomBookingSystem\HotelRoomBookingSystem\obj\Debug\HotelRoomBookingSystem.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\exam1\HotelRoomBookingSystem\HotelRoomBookingSystem\obj\Debug\HotelRoomBookingSystem.csproj.CoreCompileInputs.cache
