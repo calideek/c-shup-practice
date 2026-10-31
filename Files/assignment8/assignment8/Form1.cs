@@ -50,6 +50,52 @@ namespace assignment8
             inputFile.Close();
         }
 
+        
+        private void button5_Click(object sender, EventArgs e)
+        {
+            
+
+            string path = "output.txt";
+
+            if (File.Exists(path))
+            {
+                // Read all lines into a string array
+                string[] lines = File.ReadAllLines(path);
+
+                // Display each line
+                foreach (string line in lines)
+                {
+                    listBox1.Items.Add(line);
+                }
+            }
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            string filePath = "output.txt";
+
+            // Read the file into a byte array
+            byte[] fileBytes = File.ReadAllBytes(filePath);
+
+            listBox1.Items.Add($"Successfully read {fileBytes.Length} bytes.");
+        }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            string filePath = "output.txt";
+
+            using (StreamReader sr = new StreamReader(filePath))
+            {
+                char[] buffer = new char[20]; // Buffer to hold up to 20 characters
+
+                // Read up to 20 characters into the buffer
+                int charsRead = sr.ReadBlock(buffer, 0, buffer.Length);
+
+                // Convert the buffer segment to a string and print it
+                string result = new string(buffer, 0, charsRead);
+                listBox1.Items.Add(result);
+            }
+        }
         private void button2_Click(object sender, EventArgs e)
         {
             StreamReader inputFile;
@@ -98,50 +144,5 @@ namespace assignment8
 
         }
 
-        private void button5_Click(object sender, EventArgs e)
-        {
-            
-
-            string path = "output.txt";
-
-            if (File.Exists(path))
-            {
-                // Read all lines into a string array
-                string[] lines = File.ReadAllLines(path);
-
-                // Display each line
-                foreach (string line in lines)
-                {
-                    listBox1.Items.Add(line);
-                }
-            }
-        }
-
-        private void button6_Click(object sender, EventArgs e)
-        {
-            string filePath = "output.txt";
-
-            // Read the file into a byte array
-            byte[] fileBytes = File.ReadAllBytes(filePath);
-
-            listBox1.Items.Add($"Successfully read {fileBytes.Length} bytes.");
-        }
-
-        private void button7_Click(object sender, EventArgs e)
-        {
-            string filePath = "output.txt";
-
-            using (StreamReader sr = new StreamReader(filePath))
-            {
-                char[] buffer = new char[20]; // Buffer to hold up to 20 characters
-
-                // Read up to 20 characters into the buffer
-                int charsRead = sr.ReadBlock(buffer, 0, buffer.Length);
-
-                // Convert the buffer segment to a string and print it
-                string result = new string(buffer, 0, charsRead);
-                listBox1.Items.Add(result);
-            }
-        }
     }
 }
